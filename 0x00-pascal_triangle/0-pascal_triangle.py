@@ -19,3 +19,7 @@ def pascal_triangle(n):
         triangle.append(row)
 
     return triangle
+
+if __name__ == "__main__":
+    pascal_triangle(n)
+
